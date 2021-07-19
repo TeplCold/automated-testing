@@ -1,0 +1,4 @@
+# Created at 2019-06-30T06:06:56.529
+Boot Manifest-JAR contains absolute paths in classpath 'D:\test_ozon.ru\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
